@@ -1,3 +1,4 @@
+package org.acme.Repository;
 import javax.enterprise.context.ApplicationScoped;
 
 import org.acme.DTO.Pessoa;
